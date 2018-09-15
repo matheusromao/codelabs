@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "bicycle.dart",
+            "program": "shape.dart",
             "request": "launch",
             "type": "dart"
         }
